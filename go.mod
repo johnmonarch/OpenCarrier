@@ -6,8 +6,8 @@ require (
 	github.com/BurntSushi/toml v1.6.0
 	github.com/spf13/cobra v1.10.2
 	github.com/zalando/go-keyring v0.2.8
-	golang.org/x/term v0.42.0
-	modernc.org/sqlite v1.50.0
+	golang.org/x/term v0.43.0
+	modernc.org/sqlite v1.50.1
 )
 
 require (
@@ -20,8 +20,8 @@ require (
 	github.com/ncruces/go-strftime v1.0.0 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/spf13/pflag v1.0.9 // indirect
-	golang.org/x/sys v0.43.0 // indirect
-	modernc.org/libc v1.72.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
+	modernc.org/libc v1.72.3 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
 )
